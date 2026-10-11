@@ -1,8 +1,10 @@
-# Nanobug TOML
+# TOML for Nanobug
 
-**English** · [简体中文](https://github.com/T-miracle/Nanobug-Plugin-TOML/blob/v0.2.3/README.zh-CN.md)
+**English** · [简体中文](https://github.com/T-miracle/TOML-for-Nanobug/blob/main/README.zh-CN.md)
 
 TOML recognition, highlighting and file icons. The stable installation ID is `toml`; the first independent release is `0.2.3`.
+
+The project is named **TOML for Nanobug**. The published `v0.2.3` source and ZIP bytes remain frozen; this documentation update does not change the installation ID or replace a release asset.
 
 This repository is the authoritative plugin source. The [marketplace registry](https://github.com/T-miracle/Nanobug-Plugin-Marketplace) reviews submissions; fixed ZIP packages live in this repository's Releases. Publishing a Release does not list it automatically. Every initial submission and version requires a registry PR and human review.
 
@@ -19,6 +21,6 @@ For a WASM project, run `& $pluginHost --plugin-cargo Cargo.toml test --lib` as 
 
 ## Maintenance and licensing
 
-[Original plugin notes](https://github.com/T-miracle/Nanobug-Plugin-TOML/blob/v0.2.3/docs/source-readme.md) preserve feature details and prior verification; current source and this README define the independent build. The migration preserves existing IDs, settings and private data.
+[Original plugin notes](https://github.com/T-miracle/TOML-for-Nanobug/blob/v0.2.3/docs/source-readme.md) preserve feature details and prior verification; current source and this README define the independent build. The migration preserves existing IDs, settings and private data.
 
 The Nanobug workspace's Cargo MIT declaration is made explicit in LICENSE. Grammar, icons and native dependencies keep their own licenses and notices. Import a generated ZIP through the native manager, or install from the marketplace after review, and approve its actual permissions.
